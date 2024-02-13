@@ -17,7 +17,8 @@
 ### Test QA Automation 💽🤖
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |
-| [`Unittest`](https://github.com/HumbertoJim/SeleniumTestQaAutomation/tree/main/unittest_examples) | [`PyTest`](https://github.com/HumbertoJim/SeleniumTestQaAutomation/tree/main/pytest_examples) | [`Selenium Introduction`](https://github.com/HumbertoJim/SeleniumTestQaAutomation/tree/main/selenium_introduction) | [`Practices`](https://github.com/HumbertoJim/SeleniumTestQaAutomation/tree/main/practice) |
+| [`Unittest`](https://github.com/HumbertoJim/SeleniumTestQaAutomation/tree/main/unittest_examples) | [`PyTest`](https://github.com/HumbertoJim/SeleniumTestQaAutomation/tree/main/pytest_examples) | [`Selenium Introduction`](https://github.com/HumbertoJim/SeleniumTestQaAutomation/tree/main/selenium_introduction) | [`Reports`](https://github.com/HumbertoJim/SeleniumTestQaAutomation/tree/main/reports) |
+| [`Practices`](https://github.com/HumbertoJim/SeleniumTestQaAutomation/tree/main/practice) | | | |
 
 
 
