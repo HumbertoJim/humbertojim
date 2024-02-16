@@ -4,7 +4,7 @@
 ### Data Science & Engineering 📊
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |
-| [`Association Rules for Groceries`](https://github.com/HumbertoJim/AssociationRulesForGroceries) | [`Digits Classifier`](https://github.com/HumbertoJim/DigitsClassifier) | [`Titanic - Machine Learning`](https://github.com/HumbertoJim/titanic-machine-learning-from-disaster.git) |  |
+| [`Association Rules for Groceries`](https://github.com/HumbertoJim/AssociationRulesForGroceries) | [`Digits Classifier`](https://github.com/HumbertoJim/DigitsClassifier) | [`Titanic - Machine Learning`](https://github.com/HumbertoJim/titanic-machine-learning-from-disaster.git) | [`Face Detection`](https://github.com/HumbertoJim/face-detection.git) |
 
 
 ### Django & Web Development 💻🌐
